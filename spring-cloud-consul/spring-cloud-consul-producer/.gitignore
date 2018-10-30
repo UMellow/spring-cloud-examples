@@ -1,0 +1,14 @@
+### Eclipse ###
+.settings
+.project
+.classpath
+*.prefs
+*.component
+/target/
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
